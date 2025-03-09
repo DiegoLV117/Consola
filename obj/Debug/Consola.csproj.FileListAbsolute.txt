@@ -1,0 +1,9 @@
+C:\Users\HP\source\repos\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Consola\bin\Debug\Consola.dll
+C:\Users\HP\source\repos\Consola\bin\Debug\Consola.pdb
+C:\Users\HP\source\repos\Consola\bin\Debug\LibreriaCalculadora.dll
+C:\Users\HP\source\repos\Consola\bin\Debug\LibreriaCalculadora.pdb
+C:\Users\HP\source\repos\Consola\obj\Debug\Consola.csproj.Up2Date
+C:\Users\HP\source\repos\Consola\obj\Debug\Consola.dll
+C:\Users\HP\source\repos\Consola\obj\Debug\Consola.pdb
