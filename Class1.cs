@@ -97,5 +97,5 @@ namespace Consola
         }
     }
 }
-[no me deja agregarme amiguitos]
+
 

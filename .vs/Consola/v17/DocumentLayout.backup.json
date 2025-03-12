@@ -3,10 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Consola\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EB40E8F1-8554-4CC3-A3BC-ED4FDCA0BE6C}|..\\Consola1\\Consola1.csproj|c:\\users\\hp\\source\\repos\\consola1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9FC010F0-1D6E-4D9B-BBFD-5D7B076B88CD}|Consola.csproj|C:\\Users\\HP\\source\\repos\\Consola\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FC010F0-1D6E-4D9B-BBFD-5D7B076B88CD}|Consola.csproj|c:\\users\\hp\\source\\repos\\consola\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FC010F0-1D6E-4D9B-BBFD-5D7B076B88CD}|Consola.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -17,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -30,25 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Consola1\\Program.cs",
-              "RelativeDocumentMoniker": "..\\Consola1\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Consola1\\Program.cs",
-              "RelativeToolTip": "..\\Consola1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T18:06:10.385Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Consola\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\Consola\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T17:58:03.604Z",
               "EditorCaption": ""
